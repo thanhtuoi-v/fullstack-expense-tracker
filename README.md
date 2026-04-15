@@ -22,7 +22,7 @@ The Personal Expense Management Application helps users track their daily income
 
 ## Installation Guide
 
-# Create file `.evn`
+### Create file `.evn`
 ```
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
